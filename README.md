@@ -55,10 +55,50 @@ Feature :
 ### Descriptive Statistics
 
 ### Univariate Analysis
+#### **Histplot Numerical Features**
+**Histplot Analysis :**
+- Kolom `Credit Score` memiliki distribusi negative skew mendekati normal
+- Kolom `Age` memiliki distribusi Positive skew.
+- Kolom `Tenure` memiliki distribusi merata
+- Kolom `Balance` memiliki distribusi bimodal. pada kolom ini terdapat satu nilai yang mendominasi yaitu 0
+- Kolom `EstimatedSalary` memiliki distribusi merata
+
+#### **Boxplot Numerical Features**
+**Boxplot Analysis :**
+- Kolom `CreditScore` ditemukan data outlier yang sebagian besar terletak di bawah batas bawah IQR.
+- Kolom `Age` ditemukan data outlier yang sebagian besar terletak di atas batas atas IQR.
+- Kolom `Tenure` tidak ditemukan adanya data outlier.
+- Kolom `Balance` tidak ditemukan adanya data outlier.
+- Kolom `EstinatedSalary` tidak ditemukan adanya data outlier.
+- Kolom `NumOfProducts` ditemukan data outlier yang sebagian besar terletak di atas batas atas IQR.
+
+
+**Tindak Lanjut**
+- Untuk data yang mengandung outlier akan difilter dengan menggunakan metode IQR.
+
+#### **Barplot Categorical Features**
+**Barplot Analysis :**
+- Dalam kolom `Geography` terdapat nilai yang paling umum yaitu 'France'
+- Dalam kolom `Gender` frekuensi tertinggi terdapat pada nilai '1' dan tidak terlalu terlihat perbandingan jumlah yang tinggi diantara nilai.
+- Dalam kolom `HasCrCard` didapatkan bahwa mayoritas kostumer memiliki Credit Card
+- Dalam kolom `NumOfProducts`,  dua nilai yang paling sering muncul adalah '1' dan '2'.
+- Dalam kolom `IsActiveMember`tidak ada nilai yang terlalu mendominasi
+- Dalam kolom `Exited`terdapat nilai '0' yang paling umum, yaitu pelanggan yang tidak churn.
+
+
+**Tindak Lanjut**
+- Berdasarkan visualisasi tersebut, ditemukan beberapa data yang imbalance. Oleh karena itu perlu dianalisis lebih lanjut untuk mengetahui sejauh mana ketidakseimbangan data tersebut.
+
+#### **Outliers Table Analysis**
+**Hasil observasi :**  
+Pada data tipe numerik terdapat outlier pada kolom `CreditScore`, `Age`, dan `NumOfProducts`.
+
+- Pada kolom `CreditScore` terdapat 15 data outlier, dengan nilai terjauh terdapat di bawah IQR yaitu 350000
+- Pada kolom `Age` terdapat 359 data outlier, dengan nilai terjauh terdapat di atas IQR yaitu 92.
+- Pada kolom `NumOfProducts` terdapat 60 data outlier, dengan nilai terjauh terdapat di atas IQR yaitu 4
 
 ### Multivariate Analysis
-#### **Heatmap Correlation**
-Berdasarkan heatmap correlation yang telah dibuat, kita dapatkan suatu insight :  
+#### **Heatmap Correlation** 
 1. Korelasi ke target (Exited)  
 Beberapa feature yang kemungkinan besar relevan dan perlu dipertahankan :  
     * `Age` memiliki korelasi **positif 0.29**  
@@ -68,7 +108,7 @@ Dapat dikatakan bahwa semakin tinggi balance yang dimiliki nasabah, semakin ting
     * `Balance` memiliki korelasi **positif 0.12**  
 Dapat dikatakan bahwa pelanggan yang tidak aktif memiliki kemungkinan keluar yang lebih tinggi (hubungan berbalik)  
     * `NumOfProducts` memiliki korelasi **negatif -0.05**  
-Dapat dikatakan bahwa pelanggan dengan lebih banyak produk (NumOfProduct) cenderung memiliki kemungkinan churn yang lebih rendah.
+Dapat dikatakan bahwa pelanggan dengan lebih banyak produk (NumOfProduct) cenderung memiliki kemungkinan churn yang lebih rendah.<br><br>
 
 2. Korelasi antar feature  
     * `Age` dan `IsActiveMember` memiliki korelasi **positif 0.09**  
@@ -80,7 +120,8 @@ Dapat dikatakan bahwa nasabah yang dengan balance atau saldo rendah cenderung me
 Karena korelasi antar kolom pada dataset tersebut cenderung memiliki nilai yang rendah, yaitu berada dalam range 0.00 hingga 0.29. Kami memutuskan untuk membuat nilai `threshold` pada angka `0.05`, sehingga feature-feature dengan nilai korelasi >=0.05 kemungkinan besar akan kami pertahankan.
 
 #### **Pair Plot of Numerical Features by Exit Status**
-Berdasarkan grafik yang telah dibuat, ditemukan sedikit kecenderungan bahwa nasabah dengan `CreditScore` dibawah 400 dan `EstimatedSalary` sedang ke tinggi cenderung melakukan churn. 
+Berdasarkan grafik yang telah dibuat, ditemukan sedikit kecenderungan bahwa 
+> nasabah dengan `CreditScore` dibawah 400 dan `EstimatedSalary` sedang ke tinggi cenderung melakukan churn. 
 
 Meskipun terdapat pola ini, kedua feature tersebut tidak cukup dikatakan berkorelasi dengan target, sehingga feature ini tidak relevan dan tidak perlu dipertahankan.
 
