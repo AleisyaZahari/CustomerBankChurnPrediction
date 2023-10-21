@@ -96,6 +96,29 @@ Feature :
 **Tindak Lanjut**
 - Berdasarkan visualisasi tersebut, ditemukan beberapa data yang imbalance. Oleh karena itu perlu dianalisis lebih lanjut untuk mengetahui sejauh mana ketidakseimbangan data tersebut.
 
+**Catatan Tambahan**
+- Kolom RowNumber termasuk index kolom dan CustomerID merupakan identifer unik masing-masing pelanggang, sehingga keduanya tidak dimasukkan kedalam tipe data kategorik.
+
+#### **Imbalanced Data Analysis**
+source : [Google developer machine learning 'Imbalanced Data'](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data#:~:text=A%20classification%20data%20set%20with,smaller%20proportion%20are%20minority%20classes.) 
+Degree of imbalance        Proportion of Minority Class
+--------------------------------------------------------
+Mild                       20-40% of the data set
+Moderate                   1-20% of the data set
+Extreme                    <1% of the data set
+
+**Hasil observasi :**
+
+- Dalam kolom `Geography` terdapat ketidakseimbangan data, kolom Germany dan spain termasuk kedalam kateogri mild dengan proporsi masing-masing 25.1% dan 24.8%
+- Dalam kolom `Gender` tidak terdapat ketidakseimbangan data.
+- Dalam kolom `HasCrCard` terdapat ketidakseimbangan data pada nilai '0', termasuk kedalam kateogri mild dengan proporsi 29.4%
+- Dalam kolom `NumOfProducts` terdapat ketidakseimbangan data yang masuk kedalam kategori extreme untuk kolom nilai '4' sebanyak 0.6%, dan kolim nilai '3' termasuk moderate dengan proporsi 2.7 %
+- Dalam kolom `IsActiveMember` tidak terdapat ketidakseimbangan data.
+- Dalam kolom `Exited` terdapat ketidakseimbangan data. kolom dengan nilai '1' memiliki proporsi 20.4% yang termasuk kedalam kategori mild.
+
+**Tindak Lanjut :**
+- Perlu dilakukannya penanganan ketidakseimbangannya data yang tertutama yang termasuk kedalam kategori extreme dan moderate di kolom NumOfProducts, kategori mild yaitu kolom `Geography`, `HasCrCard`, dan `Exited`.
+
 #### **Outliers Table Analysis**
 **Hasil observasi :**  
 Pada data tipe numerik terdapat outlier pada kolom `CreditScore`, `Age`, dan `NumOfProducts`.
