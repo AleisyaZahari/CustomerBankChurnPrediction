@@ -100,12 +100,14 @@ Feature :
 - Kolom RowNumber termasuk index kolom dan CustomerID merupakan identifer unik masing-masing pelanggang, sehingga keduanya tidak dimasukkan kedalam tipe data kategorik.
 
 #### **Imbalanced Data Analysis**
-source : [Google developer machine learning 'Imbalanced Data'](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data#:~:text=A%20classification%20data%20set%20with,smaller%20proportion%20are%20minority%20classes.) 
-Degree of imbalance        Proportion of Minority Class
---------------------------------------------------------
-Mild                       20-40% of the data set
-Moderate                   1-20% of the data set
-Extreme                    <1% of the data set
+
+- source : [Google developer machine learning 'Imbalanced Data'](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data#:~:text=A%20classification%20data%20set%20with,smaller%20proportion%20are%20minority%20classes.)
+  
+| Degree of imbalance | Proportion of Minority Class|
+| :---                | :---                        |
+| Mild                | 20-40% of the data set      |
+| Moderate            | 1-20% of the data set       |
+| Extreme             | <1% of the data set         |
 
 **Hasil observasi :**
 
