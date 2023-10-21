@@ -57,11 +57,18 @@ Feature :
 ### Univariate Analysis
 #### **Histplot Numerical Features**
 **Histplot Analysis :**
-- Kolom `Credit Score` memiliki distribusi negative skew mendekati normal
-- Kolom `Age` memiliki distribusi Positive skew.
-- Kolom `Tenure` memiliki distribusi merata
-- Kolom `Balance` memiliki distribusi bimodal. pada kolom ini terdapat satu nilai yang mendominasi yaitu 0
-- Kolom `EstimatedSalary` memiliki distribusi merata
+- Kolom `Credit Score` memiliki distribusi negative skew mendekati normal. mayoritas customer memiliki jumlah credit score di rentang 600 sampai 700, dan ditemukan outliers pada kolom ini dengan nilai 400 kebawah.
+- Kolom `Age` memiliki distribusi Positive skew. mayoritas customer berusia di rentang 30 tahun sampai 40 tahun. Ditemukan pula outliers pada kolom ini dengan nilai paling ekstrem sekitar 90 tahun keatas.
+- Kolom `Tenure` memiliki distribusi merata.
+- Kolom `Balance` memiliki distribusi bimodal. pada kolom ini terdapat satu nilai yang mendominasi yaitu '0'
+- Kolom `EstimatedSalary` memiliki distribusi merata. Dimana jumlah customer pada tiap estimated salary itu hampir sama rata, artinya tidak ada kelompok gaji yang paling mendominasi.
+- Kolom `NumOfProducts` memiliki distribusi positive skew. mayoritas customer membeli product dengan nomor 1 dan 2, dan ditemukan outliers pada kolom ini dengan nilai 4
+
+
+**Tindak Lanjut**
+- Berdasarkan visualisasi tersebut terdapat beberapa data yang memiliki outliers, sehingga perlu dilakukan handling pada outliers.
+- Melakukan Transformasi pada data dengan distribusi skew untuk mengubah distribusi data menjadi lebih mendekati distribusi normal
+
 
 #### **Boxplot Numerical Features**
 **Boxplot Analysis :**
