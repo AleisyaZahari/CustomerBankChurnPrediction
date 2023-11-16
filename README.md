@@ -3,13 +3,13 @@
 <img src=assets/banner.png>
 
 **👧🏻 Member of Data Goddesses :**
-* Aleisya Zahari Salam [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](http://linkedin.com/in/aleisyazaharisalam)
-* Alicia Gofina [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/alicia-gofina-352113219/)
-* Deva Khofifah Jauharotun Naqiyyah [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/deva-khofifah-jauharotun-naqiyyah-771b92221/)
-* Devi Nur Aisyah [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/devi-nur-aisyah-403675278/)
-* Fiorent Arie Hernanti [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/fiorent-arie/)
-* Najmi Laily Fahira [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/najmi-laily-fahira/)
-* Tisa Safina Alchalista [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tisa-safina-7bb02b209/)
+* Aleisya Zahari Salam [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://linkedin.com/in/aleisyazaharisalam)&nbsp;
+* Alicia Gofina [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alicia-gofina-352113219/)&nbsp;
+* Deva Khofifah Jauharotun Naqiyyah [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/deva-khofifah-jauharotun-naqiyyah-771b92221/)&nbsp;
+* Devi Nur Aisyah [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devi-nur-aisyah-403675278/)&nbsp;
+* Fiorent Arie Hernanti [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fiorent-arie/)&nbsp;
+* Najmi Laily Fahira [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/najmi-laily-fahira/)&nbsp;
+* Tisa Safina Alchalista [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tisa-safina-7bb02b209/)&nbsp;
 
 ## **⚙ Work Environment ⚙**
 
