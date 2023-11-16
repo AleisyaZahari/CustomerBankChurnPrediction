@@ -14,6 +14,7 @@
 ## **⚙ Work Environment ⚙**
 
 - **Tools**
+
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 
@@ -36,12 +37,12 @@
 <p style='text-align: justify'>Bank CBA adalah perusahaan yang bergerak dalam bidang keuangan, menyediakan banyak layanan keuangan kepada customer/nasabahnya. Saat ini, perusahaan ini tertarik untuk memahami faktor-faktor yang mendorong pelanggan untuk memutuskan hubungan dengan bank (churn).<p>
   
 ### ⚙️ Problem Statement 
-<p style='text-align: justify'>Ditemukan saat ini bahwa bank CBA mengalami churn sebanyak 20.4%, yang berarti sebanyak **20.4% nasabah berhenti menggunakan layanan bank**. Churn dapat memiliki dampak serius, diantaranya:
-* Kehilangan nasabah dan pendapatan
-* Profitabilitas menurun
-* Keaktifan nasabah menurun
-* Penurunan kinerja
-* Pengaruh buruk pada citra merek
+<p style='text-align: justify'>Ditemukan saat ini bahwa bank CBA mengalami churn sebanyak 20.4%, yang berarti sebanyak <b>20.4% nasabah berhenti menggunakan layanan bank</b>. Churn dapat memiliki dampak serius, diantaranya:
+- Kehilangan nasabah dan pendapatan
+- Profitabilitas menurun
+- Keaktifan nasabah menurun
+- Penurunan kinerja
+- Pengaruh buruk pada citra merek
 
 
 ### 🎯 Goals
