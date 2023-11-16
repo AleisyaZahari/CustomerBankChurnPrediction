@@ -3,18 +3,19 @@
 <img src=assets/banner.png>
 
 **👧🏻 Member of Data Goddesses :**
-* Aleisya [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](http://linkedin.com/in/aleisyazaharisalam)
-* Alicia [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/alicia-gofina-352113219/)
-* Deva [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/deva-khofifah-jauharotun-naqiyyah-771b92221/)
-* Devi [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/devi-nur-aisyah-403675278/)
-* Fiorent [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/fiorent-arie/)
-* Najmi [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/najmi-laily-fahira/)
-* Tisa [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tisa-safina-7bb02b209/)
+* Aleisya Zahari Salam [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](http://linkedin.com/in/aleisyazaharisalam)
+* Alicia Gofina [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/alicia-gofina-352113219/)
+* Deva Khofifah Jauharotun Naqiyyah [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/deva-khofifah-jauharotun-naqiyyah-771b92221/)
+* Devi Nur Aisyah [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/devi-nur-aisyah-403675278/)
+* Fiorent Arie Hernanti [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/fiorent-arie/)
+* Najmi Laily Fahira [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/najmi-laily-fahira/)
+* Tisa Safina Alchalista [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/tisa-safina-7bb02b209/)
 
 ## **⚙ Work Environment ⚙**
 
 - **Tools**
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aTjJAgg3q5YFCPAeP_R2BddrWqd-JGM3?usp=sharing)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
 
 - **Programming Language**
 
@@ -24,6 +25,10 @@
 
 [Predicting Churn For Bank Customers](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers "Predicting Churn For Bank Customers dataset from Kaggle")
 
+## **💻 Script 💻**
+
+**Open in Colab**
+- [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aTjJAgg3q5YFCPAeP_R2BddrWqd-JGM3?usp=sharing)
 
 <!-- ## 🏦 Bussines Understanding  -->
 ### ⚙️ Problem Statement 
