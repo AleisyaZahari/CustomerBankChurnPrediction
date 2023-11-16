@@ -3,12 +3,27 @@
 <img src=assets/banner.png>
 
 **👧🏻 Member of Data Goddesses :**
-* Aleisya
-* Alicia
-* Deva
-* Devi
-* Fiorent
-* Najmi
+* Aleisya [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](http://linkedin.com/in/aleisyazaharisalam))
+* Alicia [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/alicia-gofina-352113219/))
+* Deva [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/deva-khofifah-jauharotun-naqiyyah-771b92221/))
+* Devi [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/devi-nur-aisyah-403675278/))
+* Fiorent [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/fiorent-arie/))
+* Najmi [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/najmi-laily-fahira/))
+* Tisa [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/tisa-safina-7bb02b209/))
+
+## **⚙ Work Environment ⚙**
+
+- **Tools**
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aTjJAgg3q5YFCPAeP_R2BddrWqd-JGM3?usp=sharing)
+
+- **Programming Language**
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+- **Dataset**
+
+[Predicting Churn For Bank Customers](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers "Predicting Churn For Bank Customers dataset from Kaggle")
+
 
 <!-- ## 🏦 Bussines Understanding  -->
 ### ⚙️ Problem Statement 
